@@ -109,7 +109,9 @@ button {
 button:disabled {
     background-color: gray;
 }
-
+.container__conteudo img {
+    display: none;
+}
 
 @media screen and (max-width: 1250px) {
 
